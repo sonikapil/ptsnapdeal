@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="221" lt="221" ts="1453205788601" s="true" lb="FeatureMap" rc="200" rm="OK" tn="APIScalingThread 1-1" dt="text" by="468"/>
+<httpSample t="96" lt="96" ts="1453205788848" s="true" lb="GetHomePageStructure" rc="200" rm="OK" tn="APIScalingThread 1-1" dt="text" by="5863"/>
+<httpSample t="287" lt="96" ts="1453205788946" s="true" lb="GetSearchResult" rc="200" rm="OK" tn="APIScalingThread 1-1" dt="text" by="47027"/>
+<httpSample t="96" lt="93" ts="1453205789235" s="true" lb="GetAutoSuggestorResults" rc="200" rm="OK" tn="APIScalingThread 1-1" dt="text" by="1807"/>
+<httpSample t="202" lt="105" ts="1453205789332" s="true" lb="CheckSearchRedirection" rc="200" rm="OK" tn="APIScalingThread 1-1" dt="text" by="47101"/>
+<httpSample t="91" lt="91" ts="1453205789573" s="true" lb="FeatureMap" rc="200" rm="OK" tn="APIScalingThread 1-2" dt="text" by="468"/>
+<httpSample t="94" lt="94" ts="1453205789667" s="true" lb="GetHomePageStructure" rc="200" rm="OK" tn="APIScalingThread 1-2" dt="text" by="5863"/>
+<httpSample t="452" lt="183" ts="1453205789762" s="true" lb="GetSearchResult" rc="200" rm="OK" tn="APIScalingThread 1-2" dt="text" by="47027"/>
+<httpSample t="98" lt="96" ts="1453205790216" s="true" lb="GetAutoSuggestorResults" rc="200" rm="OK" tn="APIScalingThread 1-2" dt="text" by="1807"/>
+<httpSample t="190" lt="98" ts="1453205790316" s="true" lb="CheckSearchRedirection" rc="200" rm="OK" tn="APIScalingThread 1-2" dt="text" by="47101"/>
+
+</testResults>
