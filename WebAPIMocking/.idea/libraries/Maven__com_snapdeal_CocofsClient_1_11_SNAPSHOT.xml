@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.snapdeal:CocofsClient:1.11-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/snapdeal/CocofsClient/1.11-SNAPSHOT/CocofsClient-1.11-20150616.072816-7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/snapdeal/CocofsClient/1.11-SNAPSHOT/CocofsClient-1.11-20150616.072816-7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/snapdeal/CocofsClient/1.11-SNAPSHOT/CocofsClient-1.11-20150616.072816-7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

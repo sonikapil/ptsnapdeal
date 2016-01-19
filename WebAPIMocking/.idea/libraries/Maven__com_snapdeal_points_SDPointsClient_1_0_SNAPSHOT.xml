@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.snapdeal.points:SDPointsClient:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/snapdeal/points/SDPointsClient/1.0-SNAPSHOT/SDPointsClient-1.0-20150603.122936-45.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/snapdeal/points/SDPointsClient/1.0-SNAPSHOT/SDPointsClient-1.0-20150603.122936-45-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/snapdeal/points/SDPointsClient/1.0-SNAPSHOT/SDPointsClient-1.0-20150603.122936-45-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

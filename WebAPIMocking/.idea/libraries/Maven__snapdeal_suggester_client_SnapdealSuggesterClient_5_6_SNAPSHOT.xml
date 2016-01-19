@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: snapdeal.suggester.client:SnapdealSuggesterClient:5.6-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/snapdeal/suggester/client/SnapdealSuggesterClient/5.6-SNAPSHOT/SnapdealSuggesterClient-5.6-20150807.061318-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/snapdeal/suggester/client/SnapdealSuggesterClient/5.6-SNAPSHOT/SnapdealSuggesterClient-5.6-20150807.061318-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/snapdeal/suggester/client/SnapdealSuggesterClient/5.6-SNAPSHOT/SnapdealSuggesterClient-5.6-20150807.061318-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

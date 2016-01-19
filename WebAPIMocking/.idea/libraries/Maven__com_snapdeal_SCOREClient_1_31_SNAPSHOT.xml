@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.snapdeal:SCOREClient:1.31-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/snapdeal/SCOREClient/1.31-SNAPSHOT/SCOREClient-1.31-20151228.132701-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/snapdeal/SCOREClient/1.31-SNAPSHOT/SCOREClient-1.31-20151228.132701-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/snapdeal/SCOREClient/1.31-SNAPSHOT/SCOREClient-1.31-20151228.132701-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

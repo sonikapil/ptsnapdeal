@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: shipping.base:ShippingBase:1.18-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/shipping/base/ShippingBase/1.18-SNAPSHOT/ShippingBase-1.18-20130807.081710-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/shipping/base/ShippingBase/1.18-SNAPSHOT/ShippingBase-1.18-20130807.081710-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/shipping/base/ShippingBase/1.18-SNAPSHOT/ShippingBase-1.18-20130807.081710-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
