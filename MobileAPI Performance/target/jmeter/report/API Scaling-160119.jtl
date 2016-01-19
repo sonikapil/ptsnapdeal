@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="214" lt="214" ts="1453201723410" s="true" lb="FeatureMap" rc="200" rm="OK" tn="APIScalingThread 1-1" dt="text" by="468"/>
+<httpSample t="88" lt="88" ts="1453201723654" s="true" lb="GetHomePageStructure" rc="200" rm="OK" tn="APIScalingThread 1-1" dt="text" by="5863"/>
+<httpSample t="274" lt="94" ts="1453201723743" s="true" lb="GetSearchResult" rc="200" rm="OK" tn="APIScalingThread 1-1" dt="text" by="47027"/>
+<httpSample t="90" lt="89" ts="1453201724018" s="true" lb="GetSimilarProducts" rc="200" rm="OK" tn="APIScalingThread 1-1" dt="text" by="460"/>
+<httpSample t="93" lt="93" ts="1453201724110" s="true" lb="GetAutoSuggestorResults" rc="200" rm="OK" tn="APIScalingThread 1-1" dt="text" by="1807"/>
+<httpSample t="185" lt="100" ts="1453201724205" s="true" lb="CheckSearchRedirection" rc="200" rm="OK" tn="APIScalingThread 1-1" dt="text" by="47101"/>
+<httpSample t="197" lt="197" ts="1453201724348" s="true" lb="FeatureMap" rc="200" rm="OK" tn="APIScalingThread 1-2" dt="text" by="468"/>
+<httpSample t="175" lt="175" ts="1453201724391" s="true" lb="Orderbyemailorid" rc="200" rm="OK" tn="APIScalingThread 1-1" dt="text" by="331"/>
+<httpSample t="125" lt="125" ts="1453201724546" s="true" lb="GetHomePageStructure" rc="200" rm="OK" tn="APIScalingThread 1-2" dt="text" by="5863"/>
+<httpSample t="268" lt="93" ts="1453201724672" s="true" lb="GetSearchResult" rc="200" rm="OK" tn="APIScalingThread 1-2" dt="text" by="47027"/>
+<httpSample t="96" lt="95" ts="1453201724941" s="true" lb="GetSimilarProducts" rc="200" rm="OK" tn="APIScalingThread 1-2" dt="text" by="460"/>
+<httpSample t="91" lt="91" ts="1453201725038" s="true" lb="GetAutoSuggestorResults" rc="200" rm="OK" tn="APIScalingThread 1-2" dt="text" by="1807"/>
+<httpSample t="582" lt="582" ts="1453201724572" s="true" lb="GetOrderDetails" rc="200" rm="OK" tn="APIScalingThread 1-1" dt="text" by="388"/>
+<httpSample t="195" lt="100" ts="1453201725130" s="true" lb="CheckSearchRedirection" rc="200" rm="OK" tn="APIScalingThread 1-2" dt="text" by="47101"/>
+<httpSample t="184" lt="183" ts="1453201725326" s="true" lb="Orderbyemailorid" rc="200" rm="OK" tn="APIScalingThread 1-2" dt="text" by="331"/>
+<httpSample t="409" lt="408" ts="1453201725511" s="true" lb="GetOrderDetails" rc="200" rm="OK" tn="APIScalingThread 1-2" dt="text" by="388"/>
+
+</testResults>
